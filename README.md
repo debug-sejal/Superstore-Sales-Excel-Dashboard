@@ -30,4 +30,4 @@ This interactive Excel dashboard provides a comprehensive analysis of superstore
 * Highlighted loss-making sub-categories for corrective actions.
 * Provided actionable insights for marketing and inventory management.
 ## 8. Screenshot
-This is How Dashboard looks like :[SuperStore.png](https://github.com/debug-sejal/Superstore-Sales-Excel-Dashboard/blob/main/SuperStore.png)
+This is How Dashboard looks like : SuperStore.png
