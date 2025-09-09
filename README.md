@@ -30,4 +30,5 @@ This interactive Excel dashboard provides a comprehensive analysis of superstore
 * Highlighted loss-making sub-categories for corrective actions.
 * Provided actionable insights for marketing and inventory management.
 ## 8. Screenshot
-This is How Dashboard looks like : SuperStore.png
+This is How Dashboard looks like : <img width="1366" height="724" alt="SuperStore" src="https://github.com/user-attachments/assets/1f8dd046-b724-426d-9e8e-06fd0871a96d" />
+
